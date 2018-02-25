@@ -1,2 +1,3 @@
 # AlgoClass
-Algor Class
+Algor Class Taken on Coursera
+
